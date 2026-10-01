@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "TsmpITAbot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "SmallSMP-z5vd.aternos.me",
-    "port": 55670,
+    "ip": "TsmpITA.aternos.me",
+    "port": 42851,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "fai entrare i tuoi amici! ip TsmpITA.aternos.me",
+        "forza dai un voto a 1/10 per il server!",
+        "e bellisimo minecraft!"
       ]
     },
     "chat-log": true,
